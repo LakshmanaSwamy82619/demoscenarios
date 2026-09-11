@@ -1,0 +1,10 @@
+{
+  "query": "How long must confidential data be encrypted in transit and what protocol is required?",
+  "answer": "Restricted data in transit must be encrypted using TLS 1.2 or higher; confidential data may be cached locally for a maximum of 24 hours and must be cleared automatically when the device is idle.",
+  "traced_source": {
+    "chunk_id": "776325c7-c2",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "similarity_score": 0.2827,
+    "chunk_text": "Restricted data, including personally identifiable information (PII) such as government identifiers,\nfinancial account numbers, and health information, must never be stored on local disk outside of the\napproved document management system. Restricted data in transit must be encrypted using TLS 1.2\nor higher. Confidential data may be cached locally for a maximum of 24 hours and must be cleared"
+  }
+}

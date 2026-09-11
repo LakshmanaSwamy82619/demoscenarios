@@ -1,0 +1,56 @@
+{
+  "export_meta": {
+    "system": "Zendesk-style ticket export",
+    "generated_at": "2026-09-08T09:15:00Z",
+    "record_count": 3
+  },
+  "tickets": [
+    {
+      "ticket_id": "TCK-48213",
+      "status": "resolved",
+      "priority": "normal",
+      "subject": "Unable to download invoice PDF from billing portal",
+      "requester_name": "Priya Raghunathan",
+      "requester_email": "priya.raghunathan@example.com",
+      "created_at": "2026-08-30T14:02:00Z",
+      "resolved_at": "2026-08-31T10:44:00Z",
+      "conversation": [
+        {"author": "customer", "body" : "The invoice PDF for August won't download, it just spins forever on the billing page."},
+        {"author": "agent", "body": "Thanks for flagging this, Priya. Could you confirm which browser and whether you're on the new billing portal (v2)?"},
+        {"author": "customer", "body": "Chrome on Windows, and yes it's the v2 portal."},
+        {"author": "agent", "body": "Found it — this was a caching bug on our CDN for the v2 portal. Fixed and deployed. You should be able to download now."}
+      ],
+      "tags": ["billing", "portal-v2", "cdn-bug"]
+    },
+    {
+      "ticket_id": "TCK-48227",
+      "status": "open",
+      "priority": "high",
+      "subject": "Account locked after failed MFA attempts",
+      "requester_name": "David Whitfield",
+      "requester_email": "d.whitfield@example.com",
+      "created_at": "2026-09-07T08:20:00Z",
+      "resolved_at": null,
+      "conversation": [
+        {"author": "customer", "body": "My account got locked after I mistyped my authenticator code a few times. I need access before my 10am call."},
+        {"author": "agent", "body": "I've escalated this to identity ops for an expedited unlock. You'll receive a reset link at your registered email shortly."}
+      ],
+      "tags": ["account-lockout", "mfa", "escalated"]
+    },
+    {
+      "ticket_id": "TCK-48231",
+      "status": "pending",
+      "priority": "low",
+      "subject": "Question about data export retention period",
+      "requester_name": "Sofia Alvarez",
+      "requester_email": "sofia.alvarez@example.com",
+      "created_at": "2026-09-08T11:05:00Z",
+      "resolved_at": null,
+      "conversation": [
+        {"author": "customer", "body": "How long do you retain exported data files before they're purged from the download bucket?"},
+        {"author": "agent", "body": "Exports are retained for 30 days from generation, then automatically purged. Let me know if you'd like a longer retention window for your plan."}
+      ],
+      "tags": ["data-export", "retention-policy"]
+    }
+  ]
+}

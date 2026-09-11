@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "776325c7-c0",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "Remote Work & Data Handling Policy\nEffective Date: 1 March 2026 Version: 3.2 Owner: Information Security Office\n1. Purpose\nThis policy establishes the minimum requirements for employees and contractors who access company\nsystems and customer data while working outside of a company facility. It applies to all business units",
+    "treated_text": "Remote Work & D.******** ******\nE.****: 1 March 2026 Version: 3.2 Owner: I.******** ******\n1. P.**** policy establishes the minimum requirements for employees and contractors who access company\nsystems and customer data while working outside of a company facility. It applies to all business units"
+  },
+  {
+    "chunk_id": "776325c7-c1",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "and to any third party granted remote access under a signed data processing agreement.\n2. Scope\nThe policy covers laptops, mobile devices, and personal devices enrolled in the mobile device\nmanagement (MDM) program. It does not cover physical office access controls, which are addressed in\nthe Facilities Security Standard.\n3. Data Classification Handling",
+    "treated_text": "and to any third party granted remote access under a signed data processing agreement.\n2. S.*** policy covers laptops, mobile devices, and personal devices enrolled in the mobile device\nmanagement (MDM) program. It does not cover physical office access controls, which are addressed in\nthe F.******** ********.\n3. D.************** ********"
+  },
+  {
+    "chunk_id": "776325c7-c2",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "Restricted data, including personally identifiable information (PII) such as government identifiers,\nfinancial account numbers, and health information, must never be stored on local disk outside of the\napproved document management system. Restricted data in transit must be encrypted using TLS 1.2\nor higher. Confidential data may be cached locally for a maximum of 24 hours and must be cleared",
+    "treated_text": "Restricted data, including personally identifiable information (PII) such as government identifiers,\nfinancial account numbers, and health information, must never be stored on local disk outside of the\napproved document management system. Restricted data in transit must be encrypted using TLS 1.2\nor higher. Confidential data may be cached locally for a maximum of 24 hours and must be cleared"
+  },
+  {
+    "chunk_id": "776325c7-c3",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "automatically when the device is idle.\n4. Access Control\nMulti-factor authentication is required for all remote sessions. Session tokens expire after 12 hours of\ninactivity. Shared accounts are prohibited; each access event must be attributable to a single named\nindividual for audit purposes.\n5. Incident Reporting",
+    "treated_text": "automatically when the device is idle.\n4. A.******* *****-factor authentication is required for all remote sessions. Session tokens expire after 12 hours of\ninactivity. Shared accounts are prohibited; each access event must be attributable to a single named\nindividual for audit purposes.\n5. I.*********"
+  },
+  {
+    "chunk_id": "776325c7-c4",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "Any suspected exposure of restricted data, including accidental transmission of an unmasked\ngovernment identifier or account number, must be reported to the Information Security Office within 4\nhours of discovery. Failure to report within this window is treated as a separate policy violation.\n6. Enforcement",
+    "treated_text": "Any suspected exposure of restricted data, including accidental transmission of an unmasked\ngovernment identifier or account number, must be reported to the I.******** ****** within 4\nhours of discovery. Failure to report within this window is treated as a separate policy violation.\n6. Enforcement"
+  },
+  {
+    "chunk_id": "776325c7-c5",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "text": "Violations of this policy may result in revocation of remote access privileges, disciplinary action, or\ntermination of the applicable contract, consistent with the employee handbook and vendor agreements.",
+    "treated_text": "Violations of this policy may result in revocation of remote access privileges, disciplinary action, or\ntermination of the applicable contract, consistent with the employee handbook and vendor agreements."
+  },
+  {
+    "chunk_id": "29f3abe0-c0",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "text": "Ticket TCK-48213 (resolved, priority: normal)\nSubject: Unable to download invoice PDF from billing portal\nRequester: Priya Raghunathan <priya.raghunathan@example.com>\ncustomer: The invoice PDF for August won't download, it just spins forever on the billing page.\nagent: Thanks for flagging this, Priya. Could you confirm which browser and whether you're on the new billing portal (v2)?",
+    "treated_text": "Ticket TCK-48213 (resolved, priority: normal)\nSubject: Unable to download invoice PDF from billing portal\nRequester: P.*********** <p****************@example.com>\ncustomer: The invoice PDF for August won't download, it just spins forever on the billing page.\nagent: Thanks for flagging this, Priya. Could you confirm which browser and whether you're on the new billing portal (v2)?"
+  },
+  {
+    "chunk_id": "29f3abe0-c1",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "text": "customer: Chrome on Windows, and yes it's the v2 portal.\nagent: Found it \u2014 this was a caching bug on our CDN for the v2 portal. Fixed and deployed. You should be able to download now.\n---\nTicket TCK-48227 (open, priority: high)\nSubject: Account locked after failed MFA attempts\nRequester: David Whitfield <d.whitfield@example.com>",
+    "treated_text": "customer: Chrome on Windows, and yes it's the v2 portal.\nagent: Found it \u2014 this was a caching bug on our CDN for the v2 portal. Fixed and deployed. You should be able to download now.\n---\nTicket TCK-48227 (open, priority: high)\nSubject: Account locked after failed MFA attempts\nRequester: D.********* <d**********@example.com>"
+  },
+  {
+    "chunk_id": "29f3abe0-c2",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "text": "customer: My account got locked after I mistyped my authenticator code a few times. I need access before my 10am call.\nagent: I've escalated this to identity ops for an expedited unlock. You'll receive a reset link at your registered email shortly.\n---\nTicket TCK-48231 (pending, priority: low)\nSubject: Question about data export retention period",
+    "treated_text": "customer: My account got locked after I mistyped my authenticator code a few times. I need access before my 10am call.\nagent: I've escalated this to identity ops for an expedited unlock. You'll receive a reset link at your registered email shortly.\n---\nTicket TCK-48231 (pending, priority: low)\nSubject: Question about data export retention period"
+  },
+  {
+    "chunk_id": "29f3abe0-c3",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "text": "Requester: Sofia Alvarez <sofia.alvarez@example.com>\ncustomer: How long do you retain exported data files before they're purged from the download bucket?\nagent: Exports are retained for 30 days from generation, then automatically purged. Let me know if you'd like a longer retention window for your plan.",
+    "treated_text": "Requester: S.******* <s************@example.com>\ncustomer: How long do you retain exported data files before they're purged from the download bucket?\nagent: Exports are retained for 30 days from generation, then automatically purged. Let me know if you'd like a longer retention window for your plan."
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "text": "Master Services Agreement\nContract Reference: MSA-2026-0417\n1. Parties\nThis Agreement is entered into between Northgate Analytics Inc. (\"Provider\") and the Client, represented by the individuals named below.\nClient Signatory: Marcus Ellery Whitfield\nClient Email: marcus.whitfield@clientcorp.com\nProvider Signatory: Renata Ocasio Silva\nProvider Email: renata.silva@northgateanalytics.com",
+    "treated_text": "M.******** *********\nC.*********: MSA-2026-0417\n1. P.**** ********* is entered into between N.********* ***. (\"Provider\") and the Client, represented by the individuals named below.\nC.*********: M.****** *********\nClient Email: m***************@clientcorp.com\nP.*********: R.****** *****\nProvider Email: r***********@northgateanalytics.com"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "text": "2. Billing Information\nClient Billing Account Number: AC-88214-7743\nAuthorized Billing Contact SSN (on file, tax reporting): 512-04-8891\nNote: if the primary tax ID above cannot be verified, use the backup identifier on file, 512048891, for the annual filing.\n3. Term and Termination",
+    "treated_text": "2. B.*********** ****** B.******* ******: TOK_D99D1A7510\nA.******* ******* SSN (on file, tax reporting): [REDACTED]\nNote: if the primary tax ID above cannot be verified, use the backup identifier on file, 512048891, for the annual filing.\n3. Term and Termination"
+  },
+  {
+    "chunk_id": "b1cbb888-c2",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "text": "This Agreement commences on the Effective Date and continues for an initial term of twenty-four (24) months, renewing automatically for successive twelve (12) month periods unless either party provides ninety (90) days' written notice of non-renewal.\n4. Confidentiality",
+    "treated_text": "T.********* commences on the E.**** and continues for an initial term of twenty-four (24) months, renewing automatically for successive twelve (12) month periods unless either party provides ninety (90) days' written notice of non-renewal.\n4. Confidentiality"
+  },
+  {
+    "chunk_id": "b1cbb888-c3",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "text": "Each party agrees to protect the other's confidential information using at least the same degree of care it uses for its own confidential information, and in no event less than a reasonable degree of care. This obligation survives termination of the Agreement for a period of five (5) years.\n5. Notices",
+    "treated_text": "Each party agrees to protect the other's confidential information using at least the same degree of care it uses for its own confidential information, and in no event less than a reasonable degree of care. This obligation survives termination of the Agreement for a period of five (5) years.\n5. Notices"
+  },
+  {
+    "chunk_id": "b1cbb888-c4",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "text": "All notices under this Agreement shall be sent to the signatories identified in Section 1, with a copy to each party's legal department.\n\u2014 End of Agreement \u2014",
+    "treated_text": "All notices under this Agreement shall be sent to the signatories identified in Section 1, with a copy to each party's legal department.\n\u2014 End of Agreement \u2014"
+  }
+]

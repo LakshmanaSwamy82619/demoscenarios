@@ -1,0 +1,67 @@
+[
+  {
+    "field_type": "PERSON_NAME",
+    "seeded_value": "Marcus Ellery Whitfield",
+    "caught": true
+  },
+  {
+    "field_type": "PERSON_NAME",
+    "seeded_value": "Renata Ocasio Silva",
+    "caught": true
+  },
+  {
+    "field_type": "PERSON_NAME",
+    "seeded_value": "David Whitfield",
+    "caught": true
+  },
+  {
+    "field_type": "PERSON_NAME",
+    "seeded_value": "Sofia Alvarez",
+    "caught": true
+  },
+  {
+    "field_type": "PERSON_NAME",
+    "seeded_value": "Priya Raghunathan",
+    "caught": true
+  },
+  {
+    "field_type": "EMAIL",
+    "seeded_value": "marcus.whitfield@clientcorp.com",
+    "caught": true
+  },
+  {
+    "field_type": "EMAIL",
+    "seeded_value": "renata.silva@northgateanalytics.com",
+    "caught": true
+  },
+  {
+    "field_type": "EMAIL",
+    "seeded_value": "priya.raghunathan@example.com",
+    "caught": true
+  },
+  {
+    "field_type": "EMAIL",
+    "seeded_value": "d.whitfield@example.com",
+    "caught": true
+  },
+  {
+    "field_type": "EMAIL",
+    "seeded_value": "sofia.alvarez@example.com",
+    "caught": true
+  },
+  {
+    "field_type": "ACCOUNT_NUMBER",
+    "seeded_value": "AC-88214-7743",
+    "caught": true
+  },
+  {
+    "field_type": "SSN",
+    "seeded_value": "512-04-8891",
+    "caught": true
+  },
+  {
+    "field_type": "SSN",
+    "seeded_value": "512048891",
+    "caught": false
+  }
+]

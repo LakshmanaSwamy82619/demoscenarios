@@ -1,0 +1,266 @@
+[
+  {
+    "chunk_id": "776325c7-c0",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Data Handling Policy",
+    "handling": "mask",
+    "treated_value": "D.******** ******"
+  },
+  {
+    "chunk_id": "776325c7-c0",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Effective Date",
+    "handling": "mask",
+    "treated_value": "E.****"
+  },
+  {
+    "chunk_id": "776325c7-c0",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Information Security Office",
+    "handling": "mask",
+    "treated_value": "I.******** ******"
+  },
+  {
+    "chunk_id": "776325c7-c0",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Purpose\nThis",
+    "handling": "mask",
+    "treated_value": "P.****"
+  },
+  {
+    "chunk_id": "776325c7-c1",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Scope\nThe",
+    "handling": "mask",
+    "treated_value": "S.***"
+  },
+  {
+    "chunk_id": "776325c7-c1",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Facilities Security Standard",
+    "handling": "mask",
+    "treated_value": "F.******** ********"
+  },
+  {
+    "chunk_id": "776325c7-c1",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Data Classification Handling",
+    "handling": "mask",
+    "treated_value": "D.************** ********"
+  },
+  {
+    "chunk_id": "776325c7-c3",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Access Control\nMulti",
+    "handling": "mask",
+    "treated_value": "A.******* *****"
+  },
+  {
+    "chunk_id": "776325c7-c3",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Incident Reporting",
+    "handling": "mask",
+    "treated_value": "I.*********"
+  },
+  {
+    "chunk_id": "776325c7-c4",
+    "doc_id": "776325c7-b816-4333-a50e-c4448b0c85f1",
+    "field_type": "PERSON_NAME",
+    "original_value": "Information Security Office",
+    "handling": "mask",
+    "treated_value": "I.******** ******"
+  },
+  {
+    "chunk_id": "29f3abe0-c0",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "EMAIL",
+    "original_value": "priya.raghunathan@example.com",
+    "handling": "mask",
+    "treated_value": "p****************@example.com"
+  },
+  {
+    "chunk_id": "29f3abe0-c0",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "PERSON_NAME",
+    "original_value": "Priya Raghunathan",
+    "handling": "mask",
+    "treated_value": "P.***********"
+  },
+  {
+    "chunk_id": "29f3abe0-c1",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "EMAIL",
+    "original_value": "d.whitfield@example.com",
+    "handling": "mask",
+    "treated_value": "d**********@example.com"
+  },
+  {
+    "chunk_id": "29f3abe0-c1",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "PERSON_NAME",
+    "original_value": "David Whitfield",
+    "handling": "mask",
+    "treated_value": "D.*********"
+  },
+  {
+    "chunk_id": "29f3abe0-c3",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "EMAIL",
+    "original_value": "sofia.alvarez@example.com",
+    "handling": "mask",
+    "treated_value": "s************@example.com"
+  },
+  {
+    "chunk_id": "29f3abe0-c3",
+    "doc_id": "29f3abe0-0d65-4722-88d2-fe5bbe35c682",
+    "field_type": "PERSON_NAME",
+    "original_value": "Sofia Alvarez",
+    "handling": "mask",
+    "treated_value": "S.*******"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "EMAIL",
+    "original_value": "marcus.whitfield@clientcorp.com",
+    "handling": "mask",
+    "treated_value": "m***************@clientcorp.com"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "EMAIL",
+    "original_value": "renata.silva@northgateanalytics.com",
+    "handling": "mask",
+    "treated_value": "r***********@northgateanalytics.com"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Master Services Agreement",
+    "handling": "mask",
+    "treated_value": "M.******** *********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Contract Reference",
+    "handling": "mask",
+    "treated_value": "C.*********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Parties\nThis Agreement",
+    "handling": "mask",
+    "treated_value": "P.**** *********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Northgate Analytics Inc",
+    "handling": "mask",
+    "treated_value": "N.********* ***"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Client Signatory",
+    "handling": "mask",
+    "treated_value": "C.*********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Marcus Ellery Whitfield",
+    "handling": "mask",
+    "treated_value": "M.****** *********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Provider Signatory",
+    "handling": "mask",
+    "treated_value": "P.*********"
+  },
+  {
+    "chunk_id": "b1cbb888-c0",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Renata Ocasio Silva",
+    "handling": "mask",
+    "treated_value": "R.****** *****"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "SSN",
+    "original_value": "512-04-8891",
+    "handling": "redact",
+    "treated_value": "[REDACTED]"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "ACCOUNT_NUMBER",
+    "original_value": "AC-88214-7743",
+    "handling": "tokenize",
+    "treated_value": "TOK_D99D1A7510"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Billing Information\nClient",
+    "handling": "mask",
+    "treated_value": "B.*********** ******"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Billing Account Number",
+    "handling": "mask",
+    "treated_value": "B.******* ******"
+  },
+  {
+    "chunk_id": "b1cbb888-c1",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Authorized Billing Contact",
+    "handling": "mask",
+    "treated_value": "A.******* *******"
+  },
+  {
+    "chunk_id": "b1cbb888-c2",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "This Agreement",
+    "handling": "mask",
+    "treated_value": "T.*********"
+  },
+  {
+    "chunk_id": "b1cbb888-c2",
+    "doc_id": "b1cbb888-becf-439d-83be-22b7c2a6bc11",
+    "field_type": "PERSON_NAME",
+    "original_value": "Effective Date",
+    "handling": "mask",
+    "treated_value": "E.****"
+  }
+]
