@@ -1,0 +1,15 @@
+The prompt given i gave the prompt pdf also check along with the docs file ok 
+
+I also have the MCP Connector with username password provider id size and API keys everything 
+
+ AZURE OPENAI CONFIGURATION
+=============================
+
+I also have Azure OpenAI credentials/configuration:
+
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_ENDPOINT=
+AZURE_OPENAI_API_VERSION=
+AZURE_OPENAI_DEPLOYMENT=
+
+If needed use them not means no issue
