@@ -1,0 +1,5 @@
+Congratulations on taking up Capstone Project with Synapt.
+
+As informed, for the attached capstone projects, the Synapt Context Substrate must be used as the core of your solution. Your project's knowledge and reasoning should be driven through the Context Substrate rather than handled outside it, and you are expected to make the most of it in how you design and build your assistant. Think carefully about how the substrate can be used to its fullest for your use case, as this will be central to your work. Your evaluation will be based primarily on how effectively you have used the Context Substrate in your project.
+
+Attached the Capstone projects selected and sheet with the Project assignment with FDE Support. 
